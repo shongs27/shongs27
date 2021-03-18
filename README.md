@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Javascript / React
+- 네이버 평단 33 ㅇㅈ?
+
 <!--
 **shongs27/shongs27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
