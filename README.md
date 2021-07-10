@@ -12,11 +12,11 @@ Junior web front-end developer.
 
 
 ### 📝 How to know me
-https://www.notion.so/c92cb8271037445f8ad8f73defde7a60
+[who am I](https://www.notion.so/c92cb8271037445f8ad8f73defde7a60)
 
 <!-- 
 ### 📫  How to reach me
-[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkxm7942@gmail.com)](mailto:dkxm7942@gmail.com) : dkxm7942@gmail.com 
+[![shongs27v@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkxm7942@gmail.com)](mailto:dkxm7942@gmail.com) : dkxm7942@gmail.com 
  -->
 
   
